@@ -1,0 +1,318 @@
+[10-Dec-2016 13:27:24 UTC] PHP Notice:  Use of undefined constant ROOT - assumed 'ROOT' in /home/ubuntu/workspace/www/index.php on line 8
+[10-Dec-2016 13:27:24 UTC] PHP Stack trace:
+[10-Dec-2016 13:27:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 13:27:24 UTC] PHP Notice:  Use of undefined constant ROOT - assumed 'ROOT' in /home/ubuntu/workspace/www/index.php on line 8
+[10-Dec-2016 13:27:24 UTC] PHP Stack trace:
+[10-Dec-2016 13:27:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 13:28:13 UTC] PHP Notice:  Use of undefined constant ROOT - assumed 'ROOT' in /home/ubuntu/workspace/www/index.php on line 8
+[10-Dec-2016 13:28:13 UTC] PHP Stack trace:
+[10-Dec-2016 13:28:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 13:28:13 UTC] PHP Notice:  Use of undefined constant ROOT - assumed 'ROOT' in /home/ubuntu/workspace/www/index.php on line 8
+[10-Dec-2016 13:28:13 UTC] PHP Stack trace:
+[10-Dec-2016 13:28:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 13:28:25 UTC] PHP Notice:  Use of undefined constant ROOT - assumed 'ROOT' in /home/ubuntu/workspace/www/index.php on line 8
+[10-Dec-2016 13:28:25 UTC] PHP Stack trace:
+[10-Dec-2016 13:28:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 13:28:25 UTC] PHP Notice:  Use of undefined constant ROOT - assumed 'ROOT' in /home/ubuntu/workspace/www/index.php on line 8
+[10-Dec-2016 13:28:25 UTC] PHP Stack trace:
+[10-Dec-2016 13:28:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 13:29:11 UTC] PHP Notice:  Use of undefined constant ROOT - assumed 'ROOT' in /home/ubuntu/workspace/www/index.php on line 8
+[10-Dec-2016 13:29:11 UTC] PHP Stack trace:
+[10-Dec-2016 13:29:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 13:29:11 UTC] PHP Notice:  Use of undefined constant ROOT - assumed 'ROOT' in /home/ubuntu/workspace/www/index.php on line 8
+[10-Dec-2016 13:29:11 UTC] PHP Stack trace:
+[10-Dec-2016 13:29:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 13:45:58 UTC] PHP Warning:  require(/config/init.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/www/index.php on line 10
+[10-Dec-2016 13:45:58 UTC] PHP Stack trace:
+[10-Dec-2016 13:45:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 13:45:58 UTC] PHP Fatal error:  require(): Failed opening required '/config/init.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/www/index.php on line 10
+[10-Dec-2016 13:45:58 UTC] PHP Stack trace:
+[10-Dec-2016 13:45:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 13:45:59 UTC] PHP Warning:  require(/config/init.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/www/index.php on line 10
+[10-Dec-2016 13:45:59 UTC] PHP Stack trace:
+[10-Dec-2016 13:45:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 13:45:59 UTC] PHP Fatal error:  require(): Failed opening required '/config/init.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/www/index.php on line 10
+[10-Dec-2016 13:45:59 UTC] PHP Stack trace:
+[10-Dec-2016 13:45:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 13:46:53 UTC] PHP Fatal error:  Class 'Router' not found in /home/ubuntu/workspace/www/index.php on line 13
+[10-Dec-2016 13:46:53 UTC] PHP Stack trace:
+[10-Dec-2016 13:46:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 13:46:53 UTC] PHP Fatal error:  Class 'Router' not found in /home/ubuntu/workspace/www/index.php on line 13
+[10-Dec-2016 13:46:53 UTC] PHP Stack trace:
+[10-Dec-2016 13:46:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 14:10:38 UTC] PHP Fatal error:  Class 'Config' not found in /home/ubuntu/workspace/components/Router.php on line 13
+[10-Dec-2016 14:10:38 UTC] PHP Stack trace:
+[10-Dec-2016 14:10:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 14:10:38 UTC] PHP   2. Router->__construct() /home/ubuntu/workspace/www/index.php:13
+[10-Dec-2016 14:10:39 UTC] PHP Fatal error:  Class 'Config' not found in /home/ubuntu/workspace/components/Router.php on line 13
+[10-Dec-2016 14:10:39 UTC] PHP Stack trace:
+[10-Dec-2016 14:10:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 14:10:39 UTC] PHP   2. Router->__construct() /home/ubuntu/workspace/www/index.php:13
+[10-Dec-2016 14:16:20 UTC] PHP Fatal error:  Class 'Config' not found in /home/ubuntu/workspace/components/Router.php on line 13
+[10-Dec-2016 14:16:20 UTC] PHP Stack trace:
+[10-Dec-2016 14:16:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 14:16:20 UTC] PHP   2. Router->__construct() /home/ubuntu/workspace/www/index.php:13
+[10-Dec-2016 14:16:21 UTC] PHP Fatal error:  Class 'Config' not found in /home/ubuntu/workspace/components/Router.php on line 13
+[10-Dec-2016 14:16:21 UTC] PHP Stack trace:
+[10-Dec-2016 14:16:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 14:16:21 UTC] PHP   2. Router->__construct() /home/ubuntu/workspace/www/index.php:13
+[10-Dec-2016 14:16:47 UTC] PHP Fatal error:  Undefined class constant 'routes' in /home/ubuntu/workspace/components/Router.php on line 13
+[10-Dec-2016 14:16:47 UTC] PHP Stack trace:
+[10-Dec-2016 14:16:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 14:16:47 UTC] PHP   2. Router->__construct() /home/ubuntu/workspace/www/index.php:13
+[10-Dec-2016 14:16:47 UTC] PHP Fatal error:  Undefined class constant 'routes' in /home/ubuntu/workspace/components/Router.php on line 13
+[10-Dec-2016 14:16:47 UTC] PHP Stack trace:
+[10-Dec-2016 14:16:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 14:16:47 UTC] PHP   2. Router->__construct() /home/ubuntu/workspace/www/index.php:13
+[10-Dec-2016 14:18:06 UTC] PHP Fatal error:  Undefined class constant 'routes' in /home/ubuntu/workspace/components/Router.php on line 13
+[10-Dec-2016 14:18:06 UTC] PHP Stack trace:
+[10-Dec-2016 14:18:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 14:18:06 UTC] PHP   2. Router->__construct() /home/ubuntu/workspace/www/index.php:13
+[10-Dec-2016 14:18:07 UTC] PHP Fatal error:  Undefined class constant 'routes' in /home/ubuntu/workspace/components/Router.php on line 13
+[10-Dec-2016 14:18:07 UTC] PHP Stack trace:
+[10-Dec-2016 14:18:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 14:18:07 UTC] PHP   2. Router->__construct() /home/ubuntu/workspace/www/index.php:13
+[10-Dec-2016 14:18:54 UTC] PHP Fatal error:  Undefined class constant 'routers' in /home/ubuntu/workspace/components/Router.php on line 13
+[10-Dec-2016 14:18:54 UTC] PHP Stack trace:
+[10-Dec-2016 14:18:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 14:18:54 UTC] PHP   2. Router->__construct() /home/ubuntu/workspace/www/index.php:13
+[10-Dec-2016 14:18:54 UTC] PHP Fatal error:  Undefined class constant 'routers' in /home/ubuntu/workspace/components/Router.php on line 13
+[10-Dec-2016 14:18:54 UTC] PHP Stack trace:
+[10-Dec-2016 14:18:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 14:18:54 UTC] PHP   2. Router->__construct() /home/ubuntu/workspace/www/index.php:13
+[10-Dec-2016 14:31:42 UTC] PHP Fatal error:  Call to undefined method Config::get() in /home/ubuntu/workspace/components/Router.php on line 13
+[10-Dec-2016 14:31:42 UTC] PHP Stack trace:
+[10-Dec-2016 14:31:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 14:31:42 UTC] PHP   2. Router->__construct() /home/ubuntu/workspace/www/index.php:13
+[10-Dec-2016 14:31:43 UTC] PHP Fatal error:  Call to undefined method Config::get() in /home/ubuntu/workspace/components/Router.php on line 13
+[10-Dec-2016 14:31:43 UTC] PHP Stack trace:
+[10-Dec-2016 14:31:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 14:31:43 UTC] PHP   2. Router->__construct() /home/ubuntu/workspace/www/index.php:13
+[10-Dec-2016 14:38:04 UTC] PHP Fatal error:  Class 'Config' not found in /home/ubuntu/workspace/config/config.php on line 4
+[10-Dec-2016 14:38:04 UTC] PHP Stack trace:
+[10-Dec-2016 14:38:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 14:38:04 UTC] PHP   2. require() /home/ubuntu/workspace/www/index.php:10
+[10-Dec-2016 14:38:04 UTC] PHP   3. require_once() /home/ubuntu/workspace/config/init.php:3
+[10-Dec-2016 14:38:05 UTC] PHP Fatal error:  Class 'Config' not found in /home/ubuntu/workspace/config/config.php on line 4
+[10-Dec-2016 14:38:05 UTC] PHP Stack trace:
+[10-Dec-2016 14:38:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 14:38:05 UTC] PHP   2. require() /home/ubuntu/workspace/www/index.php:10
+[10-Dec-2016 14:38:05 UTC] PHP   3. require_once() /home/ubuntu/workspace/config/init.php:3
+[10-Dec-2016 15:29:33 UTC] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/ubuntu/workspace/components/Router.php on line 35
+[10-Dec-2016 15:29:33 UTC] PHP Stack trace:
+[10-Dec-2016 15:29:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 15:29:33 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[10-Dec-2016 15:29:33 UTC] PHP   3. preg_match() /home/ubuntu/workspace/components/Router.php:35
+[10-Dec-2016 15:29:33 UTC] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/ubuntu/workspace/components/Router.php on line 35
+[10-Dec-2016 15:29:33 UTC] PHP Stack trace:
+[10-Dec-2016 15:29:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 15:29:33 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[10-Dec-2016 15:29:33 UTC] PHP   3. preg_match() /home/ubuntu/workspace/components/Router.php:35
+[10-Dec-2016 15:29:33 UTC] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/ubuntu/workspace/components/Router.php on line 35
+[10-Dec-2016 15:29:33 UTC] PHP Stack trace:
+[10-Dec-2016 15:29:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 15:29:33 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[10-Dec-2016 15:29:33 UTC] PHP   3. preg_match() /home/ubuntu/workspace/components/Router.php:35
+[10-Dec-2016 15:29:33 UTC] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/ubuntu/workspace/components/Router.php on line 35
+[10-Dec-2016 15:29:33 UTC] PHP Stack trace:
+[10-Dec-2016 15:29:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 15:29:33 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[10-Dec-2016 15:29:33 UTC] PHP   3. preg_match() /home/ubuntu/workspace/components/Router.php:35
+[10-Dec-2016 15:30:44 UTC] PHP Warning:  preg_match(): Unknown modifier '\' in /home/ubuntu/workspace/components/Router.php on line 35
+[10-Dec-2016 15:30:44 UTC] PHP Stack trace:
+[10-Dec-2016 15:30:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 15:30:44 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[10-Dec-2016 15:30:44 UTC] PHP   3. preg_match() /home/ubuntu/workspace/components/Router.php:35
+[10-Dec-2016 15:30:44 UTC] PHP Warning:  preg_match(): Unknown modifier '\' in /home/ubuntu/workspace/components/Router.php on line 35
+[10-Dec-2016 15:30:44 UTC] PHP Stack trace:
+[10-Dec-2016 15:30:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 15:30:44 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[10-Dec-2016 15:30:44 UTC] PHP   3. preg_match() /home/ubuntu/workspace/components/Router.php:35
+[10-Dec-2016 15:30:45 UTC] PHP Warning:  preg_match(): Unknown modifier '\' in /home/ubuntu/workspace/components/Router.php on line 35
+[10-Dec-2016 15:30:45 UTC] PHP Stack trace:
+[10-Dec-2016 15:30:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 15:30:45 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[10-Dec-2016 15:30:45 UTC] PHP   3. preg_match() /home/ubuntu/workspace/components/Router.php:35
+[10-Dec-2016 15:30:45 UTC] PHP Warning:  preg_match(): Unknown modifier '\' in /home/ubuntu/workspace/components/Router.php on line 35
+[10-Dec-2016 15:30:45 UTC] PHP Stack trace:
+[10-Dec-2016 15:30:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 15:30:45 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[10-Dec-2016 15:30:45 UTC] PHP   3. preg_match() /home/ubuntu/workspace/components/Router.php:35
+[10-Dec-2016 15:33:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/components/Router.php on line 50
+[10-Dec-2016 15:33:09 UTC] PHP Stack trace:
+[10-Dec-2016 15:33:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 15:33:09 UTC] PHP   2. spl_autoload_call() /home/ubuntu/workspace/www/index.php:13
+[10-Dec-2016 15:33:09 UTC] PHP   3. autoload_class() /home/ubuntu/workspace/www/index.php:13
+[10-Dec-2016 15:33:10 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/components/Router.php on line 50
+[10-Dec-2016 15:33:10 UTC] PHP Stack trace:
+[10-Dec-2016 15:33:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 15:33:10 UTC] PHP   2. spl_autoload_call() /home/ubuntu/workspace/www/index.php:13
+[10-Dec-2016 15:33:10 UTC] PHP   3. autoload_class() /home/ubuntu/workspace/www/index.php:13
+[10-Dec-2016 20:15:39 UTC] PHP Fatal error:  Class 'ProductController' not found in /home/ubuntu/workspace/components/Router.php on line 54
+[10-Dec-2016 20:15:39 UTC] PHP Stack trace:
+[10-Dec-2016 20:15:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 20:15:39 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[10-Dec-2016 20:16:18 UTC] PHP Fatal error:  Class 'ProductController' not found in /home/ubuntu/workspace/components/Router.php on line 54
+[10-Dec-2016 20:16:18 UTC] PHP Stack trace:
+[10-Dec-2016 20:16:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 20:16:18 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[10-Dec-2016 20:16:29 UTC] PHP Fatal error:  Class 'ProductController' not found in /home/ubuntu/workspace/components/Router.php on line 54
+[10-Dec-2016 20:16:29 UTC] PHP Stack trace:
+[10-Dec-2016 20:16:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[10-Dec-2016 20:16:29 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[11-Dec-2016 08:26:17 UTC] PHP Warning:  Missing argument 1 for NewsController::actionView(), called in /home/ubuntu/workspace/components/Router.php on line 65 and defined in /home/ubuntu/workspace/controllers/NewsController.php on line 25
+[11-Dec-2016 08:26:17 UTC] PHP Stack trace:
+[11-Dec-2016 08:26:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[11-Dec-2016 08:26:17 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[11-Dec-2016 08:26:17 UTC] PHP   3. NewsController->actionView() /home/ubuntu/workspace/components/Router.php:65
+[11-Dec-2016 08:26:17 UTC] PHP Warning:  Missing argument 2 for NewsController::actionView(), called in /home/ubuntu/workspace/components/Router.php on line 65 and defined in /home/ubuntu/workspace/controllers/NewsController.php on line 25
+[11-Dec-2016 08:26:17 UTC] PHP Stack trace:
+[11-Dec-2016 08:26:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[11-Dec-2016 08:26:17 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[11-Dec-2016 08:26:17 UTC] PHP   3. NewsController->actionView() /home/ubuntu/workspace/components/Router.php:65
+[11-Dec-2016 08:27:52 UTC] PHP Fatal error:  Call to undefined function actionView() in /home/ubuntu/workspace/components/Router.php on line 72
+[11-Dec-2016 08:27:52 UTC] PHP Stack trace:
+[11-Dec-2016 08:27:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[11-Dec-2016 08:27:52 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[11-Dec-2016 08:29:01 UTC] PHP Fatal error:  Call to undefined function actionView() in /home/ubuntu/workspace/components/Router.php on line 72
+[11-Dec-2016 08:29:02 UTC] PHP Stack trace:
+[11-Dec-2016 08:29:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[11-Dec-2016 08:29:02 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[11-Dec-2016 08:29:15 UTC] PHP Fatal error:  Call to undefined function actionView() in /home/ubuntu/workspace/components/Router.php on line 72
+[11-Dec-2016 08:29:15 UTC] PHP Stack trace:
+[11-Dec-2016 08:29:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[11-Dec-2016 08:29:15 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[11-Dec-2016 08:29:44 UTC] PHP Fatal error:  Call to undefined function actionIndex() in /home/ubuntu/workspace/components/Router.php on line 72
+[11-Dec-2016 08:29:44 UTC] PHP Stack trace:
+[11-Dec-2016 08:29:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[11-Dec-2016 08:29:44 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[11-Dec-2016 11:45:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'my_db'' in /home/ubuntu/workspace/models/News.php:14
+Stack trace:
+#0 /home/ubuntu/workspace/models/News.php(14): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/controllers/NewsController.php(37): News::getNewsItemById('123')
+#2 [internal function]: NewsController->actionView('sport', '123')
+#3 /home/ubuntu/workspace/components/Router.php(72): call_user_func_array(Array, Array)
+#4 /home/ubuntu/workspace/www/index.php(15): Router->run()
+#5 {main}
+  thrown in /home/ubuntu/workspace/models/News.php on line 14
+[11-Dec-2016 12:06:21 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/ubuntu/workspace/models/News.php on line 37
+[11-Dec-2016 12:06:21 UTC] PHP Stack trace:
+[11-Dec-2016 12:06:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[11-Dec-2016 12:06:21 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[11-Dec-2016 12:06:21 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/components/Router.php:72}() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 12:06:21 UTC] PHP   4. NewsController->actionIndex() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 12:06:21 UTC] PHP   5. News::getNewsList() /home/ubuntu/workspace/controllers/NewsController.php:23
+[11-Dec-2016 12:08:03 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/ubuntu/workspace/models/News.php on line 37
+[11-Dec-2016 12:08:03 UTC] PHP Stack trace:
+[11-Dec-2016 12:08:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[11-Dec-2016 12:08:03 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[11-Dec-2016 12:08:03 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/components/Router.php:72}() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 12:08:03 UTC] PHP   4. NewsController->actionIndex() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 12:08:03 UTC] PHP   5. News::getNewsList() /home/ubuntu/workspace/controllers/NewsController.php:23
+[11-Dec-2016 12:18:39 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/ubuntu/workspace/models/News.php on line 37
+[11-Dec-2016 12:18:39 UTC] PHP Stack trace:
+[11-Dec-2016 12:18:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[11-Dec-2016 12:18:39 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[11-Dec-2016 12:18:39 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/components/Router.php:72}() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 12:18:39 UTC] PHP   4. NewsController->actionIndex() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 12:18:39 UTC] PHP   5. News::getNewsList() /home/ubuntu/workspace/controllers/NewsController.php:23
+[11-Dec-2016 12:24:59 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/ubuntu/workspace/models/News.php on line 40
+[11-Dec-2016 12:24:59 UTC] PHP Stack trace:
+[11-Dec-2016 12:24:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[11-Dec-2016 12:24:59 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[11-Dec-2016 12:24:59 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/components/Router.php:72}() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 12:24:59 UTC] PHP   4. NewsController->actionIndex() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 12:24:59 UTC] PHP   5. News::getNewsList() /home/ubuntu/workspace/controllers/NewsController.php:23
+[11-Dec-2016 12:25:28 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/ubuntu/workspace/models/News.php on line 40
+[11-Dec-2016 12:25:28 UTC] PHP Stack trace:
+[11-Dec-2016 12:25:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[11-Dec-2016 12:25:28 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[11-Dec-2016 12:25:28 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/components/Router.php:72}() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 12:25:28 UTC] PHP   4. NewsController->actionIndex() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 12:25:28 UTC] PHP   5. News::getNewsList() /home/ubuntu/workspace/controllers/NewsController.php:23
+[11-Dec-2016 12:26:46 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/ubuntu/workspace/models/News.php on line 40
+[11-Dec-2016 12:26:46 UTC] PHP Stack trace:
+[11-Dec-2016 12:26:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[11-Dec-2016 12:26:46 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[11-Dec-2016 12:26:46 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/components/Router.php:72}() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 12:26:46 UTC] PHP   4. NewsController->actionIndex() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 12:26:46 UTC] PHP   5. News::getNewsList() /home/ubuntu/workspace/controllers/NewsController.php:23
+[11-Dec-2016 13:17:16 UTC] PHP Fatal error:  Class 'DB' not found in /home/ubuntu/workspace/models/News.php on line 19
+[11-Dec-2016 13:17:16 UTC] PHP Stack trace:
+[11-Dec-2016 13:17:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[11-Dec-2016 13:17:16 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[11-Dec-2016 13:17:16 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/components/Router.php:72}() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 13:17:16 UTC] PHP   4. NewsController->actionView() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 13:17:16 UTC] PHP   5. News::getNewsItemById() /home/ubuntu/workspace/controllers/NewsController.php:38
+[11-Dec-2016 13:17:46 UTC] PHP Fatal error:  Call to undefined method DB::query() in /home/ubuntu/workspace/models/News.php on line 22
+[11-Dec-2016 13:17:46 UTC] PHP Stack trace:
+[11-Dec-2016 13:17:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[11-Dec-2016 13:17:46 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[11-Dec-2016 13:17:46 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/components/Router.php:72}() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 13:17:46 UTC] PHP   4. NewsController->actionView() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 13:17:46 UTC] PHP   5. News::getNewsItemById() /home/ubuntu/workspace/controllers/NewsController.php:38
+[11-Dec-2016 13:20:50 UTC] PHP Fatal error:  Call to undefined method DB::getConectionDB() in /home/ubuntu/workspace/models/News.php on line 20
+[11-Dec-2016 13:20:50 UTC] PHP Stack trace:
+[11-Dec-2016 13:20:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[11-Dec-2016 13:20:50 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[11-Dec-2016 13:20:50 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/components/Router.php:72}() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 13:20:50 UTC] PHP   4. NewsController->actionView() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 13:20:50 UTC] PHP   5. News::getNewsItemById() /home/ubuntu/workspace/controllers/NewsController.php:38
+[11-Dec-2016 13:35:39 UTC] PHP Fatal error:  Call to undefined method Config::connectionDB() in /home/ubuntu/workspace/components/DB.php on line 14
+[11-Dec-2016 13:35:39 UTC] PHP Stack trace:
+[11-Dec-2016 13:35:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[11-Dec-2016 13:35:39 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[11-Dec-2016 13:35:39 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/components/Router.php:72}() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 13:35:39 UTC] PHP   4. NewsController->actionIndex() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 13:35:39 UTC] PHP   5. News::getNewsList() /home/ubuntu/workspace/controllers/NewsController.php:23
+[11-Dec-2016 13:35:39 UTC] PHP   6. DB::getConectionDB() /home/ubuntu/workspace/models/News.php:52
+[11-Dec-2016 13:36:10 UTC] PHP Fatal error:  Call to undefined method Config::connectionDB() in /home/ubuntu/workspace/components/DB.php on line 14
+[11-Dec-2016 13:36:10 UTC] PHP Stack trace:
+[11-Dec-2016 13:36:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[11-Dec-2016 13:36:10 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[11-Dec-2016 13:36:10 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/components/Router.php:72}() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 13:36:10 UTC] PHP   4. NewsController->actionIndex() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 13:36:10 UTC] PHP   5. News::getNewsList() /home/ubuntu/workspace/controllers/NewsController.php:23
+[11-Dec-2016 13:36:10 UTC] PHP   6. DB::getConectionDB() /home/ubuntu/workspace/models/News.php:36
+[11-Dec-2016 13:36:13 UTC] PHP Fatal error:  Call to undefined method Config::connectionDB() in /home/ubuntu/workspace/components/DB.php on line 14
+[11-Dec-2016 13:36:13 UTC] PHP Stack trace:
+[11-Dec-2016 13:36:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[11-Dec-2016 13:36:13 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[11-Dec-2016 13:36:13 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/components/Router.php:72}() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 13:36:13 UTC] PHP   4. NewsController->actionIndex() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 13:36:13 UTC] PHP   5. News::getNewsList() /home/ubuntu/workspace/controllers/NewsController.php:23
+[11-Dec-2016 13:36:13 UTC] PHP   6. DB::getConectionDB() /home/ubuntu/workspace/models/News.php:36
+[11-Dec-2016 14:05:05 UTC] PHP Fatal error:  Class 'Controller' not found in /home/ubuntu/workspace/controllers/NewsController.php on line 4
+[11-Dec-2016 14:05:05 UTC] PHP Stack trace:
+[11-Dec-2016 14:05:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[11-Dec-2016 14:05:05 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[11-Dec-2016 14:05:05 UTC] PHP   3. spl_autoload_call() /home/ubuntu/workspace/www/index.php:67
+[11-Dec-2016 14:05:05 UTC] PHP   4. autoload_class() /home/ubuntu/workspace/www/index.php:67
+[11-Dec-2016 14:05:05 UTC] PHP   5. require_once() /home/ubuntu/workspace/config/init.php:25
+[11-Dec-2016 14:05:17 UTC] PHP Fatal error:  Class 'Controller' not found in /home/ubuntu/workspace/controllers/NewsController.php on line 4
+[11-Dec-2016 14:05:17 UTC] PHP Stack trace:
+[11-Dec-2016 14:05:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[11-Dec-2016 14:05:17 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:15
+[11-Dec-2016 14:05:17 UTC] PHP   3. spl_autoload_call() /home/ubuntu/workspace/www/index.php:67
+[11-Dec-2016 14:05:17 UTC] PHP   4. autoload_class() /home/ubuntu/workspace/www/index.php:67
+[11-Dec-2016 14:05:17 UTC] PHP   5. require_once() /home/ubuntu/workspace/config/init.php:25
+[11-Dec-2016 14:11:09 UTC] PHP Fatal error:  Class 'parrent' not found in /home/ubuntu/workspace/controllers/NewsController.php on line 26
+[11-Dec-2016 14:11:09 UTC] PHP Stack trace:
+[11-Dec-2016 14:11:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[11-Dec-2016 14:11:09 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:16
+[11-Dec-2016 14:11:09 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/components/Router.php:72}() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 14:11:09 UTC] PHP   4. NewsController->actionIndex() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 14:12:40 UTC] PHP Warning:  require(/home/ubuntu/workspace/view/News/index.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/controllers/Controller.php on line 19
+[11-Dec-2016 14:12:40 UTC] PHP Stack trace:
+[11-Dec-2016 14:12:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[11-Dec-2016 14:12:40 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:16
+[11-Dec-2016 14:12:40 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/components/Router.php:72}() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 14:12:40 UTC] PHP   4. NewsController->actionIndex() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 14:12:40 UTC] PHP   5. Controller->render() /home/ubuntu/workspace/controllers/NewsController.php:26
+[11-Dec-2016 14:12:40 UTC] PHP Fatal error:  require(): Failed opening required '/home/ubuntu/workspace/view/News/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/controllers/Controller.php on line 19
+[11-Dec-2016 14:12:40 UTC] PHP Stack trace:
+[11-Dec-2016 14:12:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/www/index.php:0
+[11-Dec-2016 14:12:40 UTC] PHP   2. Router->run() /home/ubuntu/workspace/www/index.php:16
+[11-Dec-2016 14:12:40 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/components/Router.php:72}() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 14:12:40 UTC] PHP   4. NewsController->actionIndex() /home/ubuntu/workspace/components/Router.php:72
+[11-Dec-2016 14:12:40 UTC] PHP   5. Controller->render() /home/ubuntu/workspace/controllers/NewsController.php:26
